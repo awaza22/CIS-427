@@ -10,18 +10,20 @@ We weren't able to upload our latest version of the code the group mate that has
 This version doesn't include all the variables for the Pokemon_cards that we added. Also it doesn't have the INSERT into database for SELL function she had implemented, but the power restoration kept getting longer and we wanted to be able to submit something. 
 
 
+Connect first to global protectant
+Then you can run Bitvise SSH Client
 
-To Compile on Bitvise SSH Client After connected to UMICH Server-
-Make sure you have uploaded both files, the sqlite files (3 Sqlite files total) to the umich server: Bitvise SSH.
+After connected to UMICH Server-
+Make sure you have uploaded both server and client files and the sqlite files (3 Sqlite files total) to the umich server: Bitvise SSH.
 
-New Terminal console x 2 for client and server windows
+You will need a New Terminal console x 2 for client and server windows
 
 Server:
 
-g++ serrver.cpp -o server
-
+g++ server.cpp -std=c++11 -ldl -pthread sqlite3.o -o server
 ./server
 
+./server
 
 
 Client:
