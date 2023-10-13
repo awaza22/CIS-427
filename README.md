@@ -5,9 +5,10 @@ Programming Assignment 1:
 Online Pokémon Cards Store
 LINK TO VIDEO: https://youtu.be/1lEEdd9ryRY
 
-We weren't able to upload our latest version of the code the group mate that has the file has no power so we had to submit an older one. We also added a screenshot of the DTE messages for the power outage that happened within her city as well. We can re-upload our latest version of the code when her power goes back on, but here's a copy of an older version of the code. Although the video we recorded shows all the latest updates we implemented.
 
-This version doesn't include all the variables for the Pokemon_cards that we added. Also it doesn't have the INSERT into database for SELL function she had implemented, but the power restoration kept getting longer and we wanted to be able to submit something. 
+--Update: We uploaded our latest version of the server file -----
+
+We weren't able to upload our latest version of the code the group mate that has the file has no power so we had to submit an older one. We also added a screenshot of the DTE messages for the power outage that happened within her city as well. We can re-upload our latest version of the code when her power goes back on, but here's a copy of an older version of the code. Although the video we recorded shows all the latest updates we implemented.
 
 
 Connect first to global protectant
