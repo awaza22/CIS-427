@@ -22,7 +22,6 @@ You will need a New Terminal console x 2 for client and server windows
 Server:
 
 g++ server.cpp -std=c++11 -ldl -pthread sqlite3.o -o server
-./server
 
 ./server
 
